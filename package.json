@@ -1,0 +1,24 @@
+{
+  "name": "starter-national-parks",
+  "version": "1.0.0",
+  "description": "_Starter project for Front End Web Development JavaScript and the DOM module_",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amnunez/starter-national-parks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/amnunez/starter-national-parks/issues"
+  },
+  "homepage": "https://github.com/amnunez/starter-national-parks#readme"
+}
